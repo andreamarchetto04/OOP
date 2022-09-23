@@ -1,0 +1,7 @@
+C:\Users\993023\OneDrive\Desktop\Informatica\Bolletta\Bolletta\bin\Debug\Bolletta.exe.config
+C:\Users\993023\OneDrive\Desktop\Informatica\Bolletta\Bolletta\bin\Debug\Bolletta.exe
+C:\Users\993023\OneDrive\Desktop\Informatica\Bolletta\Bolletta\bin\Debug\Bolletta.pdb
+C:\Users\993023\OneDrive\Desktop\Informatica\Bolletta\Bolletta\obj\Debug\Bolletta.csproj.AssemblyReference.cache
+C:\Users\993023\OneDrive\Desktop\Informatica\Bolletta\Bolletta\obj\Debug\Bolletta.csproj.CoreCompileInputs.cache
+C:\Users\993023\OneDrive\Desktop\Informatica\Bolletta\Bolletta\obj\Debug\Bolletta.exe
+C:\Users\993023\OneDrive\Desktop\Informatica\Bolletta\Bolletta\obj\Debug\Bolletta.pdb
